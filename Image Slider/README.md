@@ -8,14 +8,14 @@ This Advanced Image Slider is a fully responsive, interactive slideshow designed
 
 ## Table of Contents
  - [Features](#features)
- - [TechnicalImplementation](#technicalimplementation)
- - [HowItWorks](#howitworks)
+ - [Technical-Implementation](#Technical-Implementation)
+ - [How-It-Works](#How-Tt-Works)
  - [Installation](#installation)
  - [Usage](#Usage)
  - [Controls](#Controls)
  - [Customization](#Customization)
  - [Dependencies](#Dependencies)
- - [BrowserSupport](#browsersupport)
+ - [Browser-Support](#Browser-Support)
  - [Notes](#Notes)
  
 ## Features
