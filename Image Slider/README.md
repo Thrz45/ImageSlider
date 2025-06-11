@@ -19,16 +19,26 @@ This Advanced Image Slider is a fully responsive, interactive slideshow designed
  - [Notes](#Notes)
  
 ## Features
-- Automatic slide transitions with adjustable speed
-- Manual navigation with next/previous buttons
-- Thumbnail navigation
+- Auto Transition
+  Slides automatically transition every 5 seconds, keeping your content fresh and   
+  engaging.
+- Manual navigation
+  Navigate through slides at your own pace using intuitive next and previous buttons.
+- Thumbnail Selection
+  Jump directly to any slide by clicking its thumbnail for quick and easy access.
+- Infinite Loop
+   Seamlessly cycles from the last slide back to the first, creating a continuous 
+   viewing experience.
 - Progress bar indicator
 - Play/pause functionality
 - Fullscreen mode
 - Keyboard navigation (left/right arrows)
 - Touch swipe support for mobile devices
-- Responsive design for all screen sizes
-- Pause on hover
+- Responsive Design
+   Perfectly adapts to any screen size, ensuring optimal viewing on desktops, tablets, 
+   and phones.
+- Smooth Animations
+   Elegant transitions and animations enhance the visual appeal and user experience.
 
 ## Technical Implementation
 - HTML5 for structure.
